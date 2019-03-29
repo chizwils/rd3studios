@@ -65,7 +65,12 @@ get_header();
  <div id="web-modal" class="modal">
    <div class="modal-content">
      <h4>Web Development</h4>
-     <p>A bunch of text</p>
+     <p>We live in an age of radical technological advancements and if your business has no online presence you'll be in the back line. This is where we come in: We develop websites using the latest technology that fits your business; We use the latest SEO practices to increase your visibility to customers; Finally, we get you a website that delivers with a high conversion rate.
+Web development services include:
+- WordPress development
+- Landing pages
+- Custom Management System (CMS)
+- Full-stack Website</p>
    </div>
    <div class="modal-footer">
      <a href="#!" class="modal-close waves-effect waves-green btn-flat">rd3studios</a>
@@ -74,7 +79,15 @@ get_header();
  <div id="branding-modal" class="modal">
    <div class="modal-content">
      <h4>Branding</h4>
-     <p>A bunch of text</p>
+     <p>Every idea starts with a vision, with a dream. We take that and bring it fruition. We work with small, large businesses. We provide the clanest, modern branding package for your company or organization.
+
+<br>Branding Package includes:
+<ul>
+	<li>- logo design</li>
+	<li>- business card</li>
+	<li>- brochure </li>
+	<li>- letter heads</li>
+	<li>- and much more</li> </ul></p>
    </div>
    <div class="modal-footer">
      <a href="#!" class="modal-close waves-effect waves-green btn-flat">rd3studios</a>
@@ -83,7 +96,11 @@ get_header();
  <div id="hosting-modal" class="modal">
    <div class="modal-content">
      <h4>Hosting</h4>
-     <p>A bunch of text</p>
+     <p>We want to make life easier for you by taking care of all your online needs so you can focus on other important aspects of your business. We provide hosting services. We are affiliated with the best hosting companies to give you the best and affordable package for your business. We look into the size of the business and plan on if scaling is an option and then we suggest the best package for you.
+
+Hosting services include:
+	- Domain name
+	 - Web Hosting</p>
    </div>
    <div class="modal-footer">
      <a href="#!" class="modal-close waves-effect waves-green btn-flat">rd3studios</a>
